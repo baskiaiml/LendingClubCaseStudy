@@ -43,4 +43,4 @@ When a person applies for a loan, there are two types of decisions that could be
 
 
 ## Contact
-Created by [@baskiaiml] - feel free to contact me!
+Created by [@baskiaiml] and [@libvenus]- feel free to contact us!
